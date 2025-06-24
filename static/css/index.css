@@ -117,22 +117,8 @@ body {
 .results-carousel .item {
   margin: 5px;
   overflow: hidden;
+  padding: 20px;
   font-size: 0;
-}
-
-.results-carousel .item.item-video1 {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-}
-
-.results-carousel .item.item-video1 iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
 }
 
 .results-carousel video {
